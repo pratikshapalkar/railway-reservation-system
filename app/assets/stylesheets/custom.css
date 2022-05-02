@@ -1,0 +1,11 @@
+.navbar .navbar-menu-wrapper .navbar-nav .nav-item.dropdown .count-indicator .count {
+  position: absolute;
+  right: -6px;
+  width: 18px;
+  height: 18px;
+  border-radius: 100%;
+  top: -8px;
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: bold;
+}
